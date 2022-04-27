@@ -1,0 +1,1547 @@
+,NomeParlamentar,Trecho,origem,destino,origem_latitude,origem_longitude,origem_nome,destino_latitude,destino_longitude,destino_nome
+0,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+2,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+3,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+4,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+5,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+6,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+7,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+8,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+9,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+10,Vander Loubet,"['CGH', 'BSB']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-15.869167,-47.920834,BR-DF Brasília
+11,Vander Loubet,"['BSB', 'GRU']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.431944,-46.467778,BR-SP São Paulo
+12,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+13,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+14,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+15,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+16,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+17,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+18,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+19,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+20,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+21,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+22,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+23,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+24,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+25,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+26,Vander Loubet,"['BSB', 'DOU']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-22.2019,-54.926601,BR-MS Dourados
+27,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+28,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+29,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+30,Vander Loubet,"['CWB', 'CGR']",CWB,CWB,-25.5285,-49.1758,BR-PR Curitiba,-20.469998,-54.673988,BR-MS Campo Grande
+31,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+32,Vander Loubet,"['BSB', 'CGH', 'CWB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-25.5285,-49.1758,BR-PR Curitiba
+33,Vander Loubet,"['BSB', 'CGH', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+34,Vander Loubet,"['BSB', 'CGH', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+35,Vander Loubet,"['VCP', 'BSB']",VCP,VCP,-23.007404,-47.134502,BR-SP Campinas,-15.869167,-47.920834,BR-DF Brasília
+36,Vander Loubet,"['BSB', 'CGH', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+37,Vander Loubet,"['CGH', 'CGR']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+38,Vander Loubet,"['BSB', 'CGH', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+39,Vander Loubet,"['BSB', 'CGH', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+40,Vander Loubet,"['BSB', 'CGH', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+41,Vander Loubet,"['BSB', 'CGH', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+42,Vander Loubet,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+43,Vander Loubet,"['BSB', 'CWB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-25.5285,-49.1758,BR-PR Curitiba
+44,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+45,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+46,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+47,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+48,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+49,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+50,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+51,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+52,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+53,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+54,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+55,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+56,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+57,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+58,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+59,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+60,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+61,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+62,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+63,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+64,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+65,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+66,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+67,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+68,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+69,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+70,Vander Loubet,"['BSB', 'CGH']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.62611,-46.656387,BR-SP São Paulo
+71,Vander Loubet,"['CGH', 'CGR']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+72,Vander Loubet,"['BSB', 'CGH']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.62611,-46.656387,BR-SP São Paulo
+73,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+74,Vander Loubet,"['CGR', 'CGH']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-23.62611,-46.656387,BR-SP São Paulo
+75,Vander Loubet,"['CGH', 'BSB']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-15.869167,-47.920834,BR-DF Brasília
+76,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+77,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+78,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+79,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+80,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+81,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+82,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+83,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+84,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+85,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+86,Vander Loubet,"['CGR', 'GRU']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-23.431944,-46.467778,BR-SP São Paulo
+87,Vander Loubet,"['CGH', 'BSB']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-15.869167,-47.920834,BR-DF Brasília
+88,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+89,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+90,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+91,Vander Loubet,"['CGR', 'CGH']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-23.62611,-46.656387,BR-SP São Paulo
+92,Vander Loubet,"['CGH', 'BSB']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-15.869167,-47.920834,BR-DF Brasília
+93,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+94,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+95,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+96,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+97,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+98,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+99,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+100,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+101,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+102,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+103,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+104,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+105,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+106,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+107,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+108,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+109,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+110,Vander Loubet,"['BSB', 'CGH']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.62611,-46.656387,BR-SP São Paulo
+111,Vander Loubet,"['CGH', 'CGR']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+112,Vander Loubet,"['BSB', 'CGH']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.62611,-46.656387,BR-SP São Paulo
+113,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+114,Vander Loubet,"['BSB', 'CGR', 'CGH', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+115,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+116,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+117,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+118,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+119,Vander Loubet,"['CGR', 'GRU']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-23.431944,-46.467778,BR-SP São Paulo
+120,Vander Loubet,"['CGH', 'BSB']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-15.869167,-47.920834,BR-DF Brasília
+121,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+122,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+123,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+124,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+125,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+126,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+127,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+128,Vander Loubet,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+129,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+130,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+131,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+132,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+133,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+134,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+135,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+136,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+137,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+138,Vander Loubet,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+139,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+140,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+141,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+142,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+143,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+144,Vander Loubet,"['CGR', 'GRU', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+145,Vander Loubet,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+146,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+147,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+148,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+149,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+150,Vander Loubet,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+151,Vander Loubet,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+152,Vander Loubet,"['BSB', 'CWB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-25.5285,-49.1758,BR-PR Curitiba
+153,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+154,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+155,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+156,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+157,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+158,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+159,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+160,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+161,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+162,Vander Loubet,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+163,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+164,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+165,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+166,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+167,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+168,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+169,Vander Loubet,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+170,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+171,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+172,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+173,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+174,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+175,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+176,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+177,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+178,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+179,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+180,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+181,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+182,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+183,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+184,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+185,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+186,Vander Loubet,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+187,Dagoberto Nogueira,"['CGR', 'REC']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-8.125984,-34.923316,BR-PE Recife
+188,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+189,Dagoberto Nogueira,"['CGR', 'REC']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-8.125984,-34.923316,BR-PE Recife
+190,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+191,Dagoberto Nogueira,"['REC', 'BSB']",REC,REC,-8.125984,-34.923316,BR-PE Recife,-15.869167,-47.920834,BR-DF Brasília
+192,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+193,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+194,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+195,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+196,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+197,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+198,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+199,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+200,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+201,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+202,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+203,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+204,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB', 'CGH', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+205,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+206,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB', 'CGH', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+207,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB', 'CGH', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+208,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB', 'CGH', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+209,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+210,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB', 'CGH', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+211,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB', 'CGH', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+212,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+213,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+214,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+215,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+216,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+217,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+218,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+219,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+220,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+221,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+222,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+223,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+224,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+225,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+226,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+227,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+228,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+229,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+230,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+231,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+232,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+233,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+234,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+235,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+236,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+237,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+238,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+239,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+240,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+241,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+242,Dagoberto Nogueira,"['BSB', 'SJP']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.8166007996,-49.40650177,BR-SP São José Do Rio Preto
+243,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+244,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+245,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+246,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+247,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+248,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+249,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+250,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+251,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+252,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+253,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+254,Dagoberto Nogueira,"['CWB', 'CGR']",CWB,CWB,-25.5285,-49.1758,BR-PR Curitiba,-20.469998,-54.673988,BR-MS Campo Grande
+255,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+256,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+257,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+258,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+259,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+260,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+261,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+262,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+263,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+264,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+265,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+266,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+267,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+268,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+269,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+270,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+271,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+272,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+273,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+274,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+275,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+276,Dagoberto Nogueira,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+277,Dagoberto Nogueira,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+278,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+279,Dagoberto Nogueira,"['BSB', 'CWB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-25.5285,-49.1758,BR-PR Curitiba
+280,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+281,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+282,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+283,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+284,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+285,Dagoberto Nogueira,"['GRU', 'CGR']",GRU,GRU,-23.431944,-46.467778,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+286,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+287,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+288,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+289,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+290,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+291,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+292,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+293,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+294,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+295,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+296,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+297,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+298,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+299,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+300,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+301,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+302,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+303,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+304,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+305,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+306,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+307,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+308,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+309,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+310,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+311,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+312,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+313,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+314,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+315,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+316,Dagoberto Nogueira,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+317,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+318,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+319,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+320,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+321,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+322,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+323,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+324,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+325,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+326,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+327,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+328,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+329,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+330,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+331,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+332,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+333,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+334,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+335,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+336,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+337,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+338,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+339,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+340,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+341,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+342,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+343,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+344,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+345,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+346,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+347,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+348,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+349,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+350,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+351,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+352,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+353,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+354,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+355,Dagoberto Nogueira,"['SJP', 'CGH', 'BSB']",SJP,SJP,-20.8166007996,-49.40650177,BR-SP São José Do Rio Preto,-15.869167,-47.920834,BR-DF Brasília
+356,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+357,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+358,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+359,Dagoberto Nogueira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+360,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+361,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+362,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+363,Dagoberto Nogueira,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+364,Dagoberto Nogueira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+365,Dagoberto Nogueira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+366,Dagoberto Nogueira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+367,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+368,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+369,Dagoberto Nogueira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+370,Dagoberto Nogueira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+371,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+372,Dagoberto Nogueira,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+373,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+374,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+375,Dagoberto Nogueira,"['CGR', 'CGH', 'SDU', 'GIG', 'CGH']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-23.62611,-46.656387,BR-SP São Paulo
+376,Dagoberto Nogueira,"['CGH', 'CGR']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+377,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+378,Dagoberto Nogueira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+379,Dagoberto Nogueira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+380,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+381,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+382,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+383,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+384,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+385,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+386,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+387,Dagoberto Nogueira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+388,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+389,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+390,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+391,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+392,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+393,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+394,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+395,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+396,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+397,Dagoberto Nogueira,"['CGR', 'CGH', 'SDU', 'GIG', 'CGH']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-23.62611,-46.656387,BR-SP São Paulo
+398,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+399,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+400,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+401,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+402,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+403,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+404,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+405,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+406,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+407,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+408,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+409,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+410,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+411,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+412,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+413,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+414,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+415,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+416,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+417,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+418,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+419,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+420,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+421,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+422,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+423,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+424,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+425,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+426,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+427,Fábio Trad,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+428,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+429,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+430,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+431,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+432,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+433,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+434,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+435,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+436,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+437,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+438,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+439,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+440,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+441,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+442,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+443,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+444,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+445,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+446,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+447,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+448,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+449,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+450,Fábio Trad,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+451,Fábio Trad,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+452,Fábio Trad,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+453,Fábio Trad,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+454,Fábio Trad,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+455,Fábio Trad,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+456,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+457,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+458,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+459,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+460,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+461,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+462,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+463,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+464,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+465,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+466,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+467,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+468,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+469,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+470,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+471,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+472,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+473,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+474,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+475,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+476,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+477,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+478,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+479,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+480,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+481,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+482,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+483,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+484,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+485,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+486,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+487,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+488,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+489,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+490,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+491,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+492,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+493,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+494,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+495,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+496,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+497,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+498,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+499,Fábio Trad,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+500,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+501,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+502,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+503,Fábio Trad,"['BSB', 'CGH']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.62611,-46.656387,BR-SP São Paulo
+504,Fábio Trad,"['CGH', 'CGR']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+505,Fábio Trad,"['BSB', 'CGH']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.62611,-46.656387,BR-SP São Paulo
+506,Fábio Trad,"['CGH', 'BSB']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-15.869167,-47.920834,BR-DF Brasília
+507,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+508,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+509,Fábio Trad,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+510,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+511,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+512,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+513,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+514,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+515,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+516,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+517,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+518,Fábio Trad,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+519,Fábio Trad,"['BSB', 'CGH', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+520,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+521,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+522,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+523,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+524,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+525,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+526,Fábio Trad,"['CGB', 'BSB']",CGB,CGB,-15.6529,-56.116699,BR-MT Cuiabá,-15.869167,-47.920834,BR-DF Brasília
+527,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+528,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+529,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+530,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+531,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+532,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+533,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+534,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+535,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+536,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+537,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+538,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+539,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+540,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+541,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+542,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+543,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+544,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+545,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+546,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+547,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+548,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+549,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+550,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+551,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+552,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+553,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+554,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+555,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+556,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+557,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+558,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+559,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+560,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+561,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+562,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+563,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+564,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+565,Fábio Trad,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+566,JUNIOR CORINGA,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+567,JUNIOR CORINGA,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+568,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+569,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+570,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+571,JUNIOR CORINGA,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+572,JUNIOR CORINGA,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+573,JUNIOR CORINGA,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+574,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+575,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+576,JUNIOR CORINGA,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+577,JUNIOR CORINGA,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+578,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+579,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+580,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+581,JUNIOR CORINGA,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+582,JUNIOR CORINGA,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+583,JUNIOR CORINGA,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+584,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+585,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+586,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+587,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+588,JUNIOR CORINGA,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+589,Dr. Luiz Ovando,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+590,Dr. Luiz Ovando,"['CGR', 'GRU', 'BSB', 'GRU', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+591,Dr. Luiz Ovando,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+592,Dr. Luiz Ovando,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+593,Dr. Luiz Ovando,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+594,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+595,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+596,Dr. Luiz Ovando,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+597,Dr. Luiz Ovando,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+598,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+599,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+600,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+601,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+602,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+603,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+604,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+605,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+606,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+607,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+608,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+609,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+610,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+611,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+612,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+613,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+614,Dr. Luiz Ovando,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+615,Dr. Luiz Ovando,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+616,Dr. Luiz Ovando,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+617,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+618,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+619,Dr. Luiz Ovando,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+620,Dr. Luiz Ovando,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+621,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+622,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+623,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+624,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+625,Dr. Luiz Ovando,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+626,Dr. Luiz Ovando,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+627,Dr. Luiz Ovando,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+628,Dr. Luiz Ovando,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+629,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+630,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+631,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+632,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+633,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+634,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+635,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+636,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+637,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+638,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+639,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+640,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+641,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+642,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+643,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+644,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+645,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+646,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+647,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+648,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+649,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+650,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+651,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+652,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+653,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+654,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+655,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+656,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+657,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+658,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+659,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+660,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+661,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+662,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+663,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+664,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+665,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+666,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+667,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+668,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+669,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+670,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+671,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+672,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+673,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+674,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+675,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+676,Dr. Luiz Ovando,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+677,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+678,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+679,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+680,Dr. Luiz Ovando,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+681,Dr. Luiz Ovando,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+682,Dr. Luiz Ovando,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+683,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+684,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+685,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+686,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+687,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+688,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+689,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+690,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+691,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+692,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+693,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+694,Dr. Luiz Ovando,"['CGH', 'CGR']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+695,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+696,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+697,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+698,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+699,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+700,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+701,Dr. Luiz Ovando,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+702,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+703,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+704,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+705,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+706,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+707,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+708,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+709,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+710,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+711,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+712,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+713,Dr. Luiz Ovando,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+714,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+715,Dr. Luiz Ovando,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+716,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+717,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+718,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+719,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+720,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+721,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+722,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+723,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+724,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+725,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+726,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+727,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+728,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+729,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+730,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+731,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+732,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+733,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+734,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+735,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+736,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+737,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+738,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+739,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+740,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+741,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+742,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+743,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+744,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+745,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+746,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+747,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+748,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+749,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+750,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+751,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+752,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+753,Beto Pereira,"['BSB', 'VCP']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.007404,-47.134502,BR-SP Campinas
+754,Beto Pereira,"['BSB', 'GRU']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.431944,-46.467778,BR-SP São Paulo
+755,Beto Pereira,"['BSB', 'JTC']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-22.160755,-49.070325,BR-SP Bauru
+756,Beto Pereira,"['JTC', 'CGR']",JTC,JTC,-22.160755,-49.070325,BR-SP Bauru,-20.469998,-54.673988,BR-MS Campo Grande
+757,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+758,Beto Pereira,"['BSB', 'JTC']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-22.160755,-49.070325,BR-SP Bauru
+759,Beto Pereira,"['BSB', 'SJP']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.8166007996,-49.40650177,BR-SP São José Do Rio Preto
+760,Beto Pereira,"['BSB', 'VCP']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.007404,-47.134502,BR-SP Campinas
+761,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+762,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+763,Beto Pereira,"['JTC', 'BSB']",JTC,JTC,-22.160755,-49.070325,BR-SP Bauru,-15.869167,-47.920834,BR-DF Brasília
+764,Beto Pereira,"['BSB', 'CGH']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.62611,-46.656387,BR-SP São Paulo
+765,Beto Pereira,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+766,Beto Pereira,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+767,Beto Pereira,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+768,Beto Pereira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+769,Beto Pereira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+770,Beto Pereira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+771,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+772,Beto Pereira,"['BSB', 'GRU', 'MVD', 'GRU', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+773,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+774,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+775,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+776,Beto Pereira,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+777,Beto Pereira,"['GRU', 'MVD', 'GRU']",GRU,GRU,-23.431944,-46.467778,BR-SP São Paulo,-23.431944,-46.467778,BR-SP São Paulo
+778,Beto Pereira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+779,Beto Pereira,"['BSB', 'GRU', 'MVD', 'GRU', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+780,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+781,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+782,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+783,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+784,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+785,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+786,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+787,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+788,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+789,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+790,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+791,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+792,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+793,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+794,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+795,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+796,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+797,Beto Pereira,"['SJP', 'GRU']",SJP,SJP,-20.8166007996,-49.40650177,BR-SP São José Do Rio Preto,-23.431944,-46.467778,BR-SP São Paulo
+798,Beto Pereira,"['GRU', 'BSB']",GRU,GRU,-23.431944,-46.467778,BR-SP São Paulo,-15.869167,-47.920834,BR-DF Brasília
+799,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+800,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+801,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+802,Beto Pereira,"['BSB', 'CGH', 'SJP']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.8166007996,-49.40650177,BR-SP São José Do Rio Preto
+803,Beto Pereira,"['SJP', 'GRU', 'BSB']",SJP,SJP,-20.8166007996,-49.40650177,BR-SP São José Do Rio Preto,-15.869167,-47.920834,BR-DF Brasília
+804,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+805,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+806,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+807,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+808,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+809,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+810,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+811,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+812,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+813,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+814,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+815,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+816,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+817,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+818,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+819,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+820,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+821,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+822,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+823,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+824,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+825,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+826,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+827,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+828,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+829,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+830,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+831,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+832,Beto Pereira,"['CGH', 'CGR']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+833,Beto Pereira,"['JTC', 'GRU', 'BSB']",JTC,JTC,-22.160755,-49.070325,BR-SP Bauru,-15.869167,-47.920834,BR-DF Brasília
+834,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+835,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+836,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+837,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+838,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+839,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+840,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+841,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+842,Beto Pereira,"['BSB', 'GRU', 'JTC']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-22.160755,-49.070325,BR-SP Bauru
+843,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+844,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+845,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+846,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+847,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+848,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+849,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+850,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+851,Beto Pereira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+852,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+853,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+854,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+855,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+856,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+857,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+858,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+859,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+860,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+861,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+862,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+863,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+864,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+865,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+866,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+867,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+868,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+869,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+870,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+871,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+872,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+873,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+874,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+875,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+876,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+877,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+878,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+879,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+880,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+881,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+882,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+883,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+884,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+885,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+886,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+887,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+888,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+889,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+890,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+891,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+892,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+893,Loester Trutis,"['BSB', 'GRU']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.431944,-46.467778,BR-SP São Paulo
+894,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+895,Loester Trutis,"['SDU', 'CGR']",SDU,SDU,-22.9105,-43.163101,BR-RJ Rio de Janeiro,-20.469998,-54.673988,BR-MS Campo Grande
+896,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+897,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+898,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+899,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+900,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+901,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+902,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+903,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+904,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+905,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+906,Loester Trutis,"['BSB', 'REC']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-8.125984,-34.923316,BR-PE Recife
+907,Loester Trutis,"['REC', 'BSB']",REC,REC,-8.125984,-34.923316,BR-PE Recife,-15.869167,-47.920834,BR-DF Brasília
+908,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+909,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+910,Loester Trutis,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+911,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+912,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+913,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+914,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+915,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+916,Loester Trutis,"['BSB', 'SDU']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-22.9105,-43.163101,BR-RJ Rio de Janeiro
+917,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+918,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+919,Loester Trutis,"['BSB', 'SDU']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-22.9105,-43.163101,BR-RJ Rio de Janeiro
+920,Loester Trutis,"['CGH', 'CGR']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+921,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+922,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+923,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+924,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+925,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+926,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+927,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+928,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+929,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+930,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+931,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+932,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+933,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+934,Loester Trutis,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+935,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+936,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+937,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+938,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+939,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+940,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+941,Loester Trutis,"['BSB', 'REC', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+942,Loester Trutis,"['BSB', 'REC', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+943,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+944,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+945,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+946,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+947,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+948,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+949,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+950,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+951,Loester Trutis,"['CGR', 'GRU']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-23.431944,-46.467778,BR-SP São Paulo
+952,Loester Trutis,"['GRU', 'BSB']",GRU,GRU,-23.431944,-46.467778,BR-SP São Paulo,-15.869167,-47.920834,BR-DF Brasília
+953,Loester Trutis,"['GRU', 'BSB']",GRU,GRU,-23.431944,-46.467778,BR-SP São Paulo,-15.869167,-47.920834,BR-DF Brasília
+954,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+955,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+956,Loester Trutis,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+957,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+958,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+959,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+960,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+961,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+962,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+963,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+964,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+965,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+966,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+967,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+968,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+969,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+970,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+971,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+972,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+973,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+974,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+975,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+976,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+977,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+978,Loester Trutis,"['BSB', 'POA', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+979,Loester Trutis,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+980,Loester Trutis,"['BSB', 'GIG', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+981,Loester Trutis,"['BSB', 'GIG', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+982,Loester Trutis,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+983,Loester Trutis,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+984,Loester Trutis,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+985,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+986,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+987,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+988,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+989,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+990,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+991,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+992,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+993,CORONEL BITTENCOURT,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+994,CORONEL BITTENCOURT,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+995,CORONEL BITTENCOURT,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+996,CORONEL BITTENCOURT,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+997,CORONEL BITTENCOURT,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+998,CORONEL BITTENCOURT,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+999,CORONEL BITTENCOURT,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1000,CORONEL BITTENCOURT,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1001,CORONEL BITTENCOURT,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1002,CORONEL BITTENCOURT,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1003,CORONEL BITTENCOURT,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1004,CORONEL BITTENCOURT,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1005,CORONEL BITTENCOURT,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1006,CORONEL BITTENCOURT,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1007,CORONEL BITTENCOURT,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1008,CORONEL BITTENCOURT,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1009,CARLA STEPHANINI,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1010,CARLA STEPHANINI,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1011,CARLA STEPHANINI,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1012,CARLA STEPHANINI,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1013,CARLA STEPHANINI,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1014,CARLA STEPHANINI,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1015,CARLA STEPHANINI,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1016,CARLA STEPHANINI,"['BSB', 'UDI']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-18.883612,-48.225277,BR-MG Uberlândia
+1017,CARLA STEPHANINI,"['CGR', 'CGH']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-23.62611,-46.656387,BR-SP São Paulo
+1018,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1019,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1020,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1021,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1022,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1023,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1024,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1025,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1026,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1027,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1028,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1029,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1030,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1031,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1032,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1033,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1034,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1035,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1036,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1037,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1038,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1039,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1040,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1041,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1042,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1043,Bia Cavassa,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1044,Bia Cavassa,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1045,Bia Cavassa,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1046,Bia Cavassa,"['BSB', 'CGH']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-23.62611,-46.656387,BR-SP São Paulo
+1047,Bia Cavassa,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1048,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1049,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1050,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1051,Bia Cavassa,"['CGH', 'CGR']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+1052,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1053,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1054,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1055,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1056,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1057,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1058,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1059,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1060,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1061,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1062,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1063,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1064,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1065,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1066,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1067,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1068,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1069,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1070,Bia Cavassa,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1071,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1072,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1073,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1074,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1075,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1076,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1077,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1078,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1079,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1080,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1081,Bia Cavassa,"['CGH', 'CGR']",CGH,CGH,-23.62611,-46.656387,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+1082,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1083,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1084,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1085,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1086,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1087,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1088,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1089,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1090,Bia Cavassa,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1091,Bia Cavassa,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1092,Bia Cavassa,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1093,Bia Cavassa,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1094,Bia Cavassa,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1095,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1096,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1097,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1098,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1099,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1100,Bia Cavassa,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1101,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1102,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1103,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1104,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1105,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1106,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1107,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1108,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1109,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1110,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1111,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1112,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1113,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1114,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1115,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1116,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1117,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1118,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1119,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1120,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1121,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1122,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1123,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1124,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1125,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1126,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1127,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1128,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1129,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1130,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1131,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1132,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1133,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1134,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1135,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1136,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1137,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1138,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1139,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1140,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1141,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1142,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1143,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1144,Vander Loubet,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1145,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1146,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1147,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1148,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1149,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1150,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1151,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1152,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1153,Dagoberto Nogueira,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1154,Dagoberto Nogueira,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1155,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1156,Dagoberto Nogueira,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1157,Dagoberto Nogueira,"['CGR', 'CGH', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1158,Dagoberto Nogueira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1159,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1160,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1161,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1162,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1163,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1164,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1165,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1166,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1167,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1168,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1169,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1170,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1171,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1172,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1173,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1174,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1175,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1176,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1177,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1178,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1179,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1180,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1181,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1182,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1183,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1184,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1185,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1186,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1187,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1188,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1189,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1190,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1191,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1192,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1193,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1194,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1195,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1196,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1197,Fábio Trad,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1198,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1199,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1200,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1201,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1202,Fábio Trad,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1203,Fábio Trad,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1204,Dr. Luiz Ovando,"['GYN', 'CGR']",GYN,GYN,-16.632,-49.220699,BR-GO Goiânia,-20.469998,-54.673988,BR-MS Campo Grande
+1205,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1206,Dr. Luiz Ovando,"['CGR', 'GRU', 'GYN']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-16.632,-49.220699,BR-GO Goiânia
+1207,Dr. Luiz Ovando,"['GYN', 'GRU', 'CGR']",GYN,GYN,-16.632,-49.220699,BR-GO Goiânia,-20.469998,-54.673988,BR-MS Campo Grande
+1208,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1209,Dr. Luiz Ovando,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1210,Dr. Luiz Ovando,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1211,Dr. Luiz Ovando,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1212,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1213,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1214,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1215,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1216,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1217,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1218,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1219,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1220,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1221,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1222,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1223,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1224,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1225,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1226,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1227,Dr. Luiz Ovando,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1228,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1229,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1230,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1231,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1232,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1233,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1234,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1235,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1236,Beto Pereira,"['BSB', 'SJP']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.8166007996,-49.40650177,BR-SP São José Do Rio Preto
+1237,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1238,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1239,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1240,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1241,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1242,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1243,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1244,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1245,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1246,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1247,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1248,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1249,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1250,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1251,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1252,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1253,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1254,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1255,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1256,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1257,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1258,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1259,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1260,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1261,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1262,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1263,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1264,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1265,Beto Pereira,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1266,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1267,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1268,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1269,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1270,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1271,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1272,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1273,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1274,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1275,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1276,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1277,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1278,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1279,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1280,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1281,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1282,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1283,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1284,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1285,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1286,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1287,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1288,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1289,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1290,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1291,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1292,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1293,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1294,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1295,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1296,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1297,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1298,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1299,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1300,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1301,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1302,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1303,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1304,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1305,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1306,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1307,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1308,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1309,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1310,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1311,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1312,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1313,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1314,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1315,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1316,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1317,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1318,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1319,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1320,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1321,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1322,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1323,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1324,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1325,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1326,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1327,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1328,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1329,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1330,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1331,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1332,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1333,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1334,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1335,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1336,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1337,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1338,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1339,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1340,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1341,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1342,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1343,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1344,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1345,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1346,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1347,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1348,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1349,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1350,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1351,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1352,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1353,Beto Pereira,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1354,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1355,Beto Pereira,"['BSB', 'SSA', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1356,Beto Pereira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1357,Beto Pereira,"['BSB', 'SSA', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1358,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1359,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1360,Loester Trutis,"['CGR', 'CGH', 'BSB', 'CGH', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1361,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1362,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1363,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1364,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1365,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1366,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1367,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1368,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1369,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1370,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1371,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1372,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1373,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1374,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1375,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1376,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1377,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1378,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1379,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1380,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1381,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1382,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1383,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1384,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1385,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1386,Loester Trutis,"['CGR', 'GRU', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1387,Loester Trutis,"['CGR', 'GRU', 'POA']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-29.994712,-51.166592,BR-RS Porto Alegre
+1388,Loester Trutis,"['CGR', 'BSB', 'GRU', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1389,Loester Trutis,"['POA', 'GRU', 'CGR']",POA,POA,-29.994712,-51.166592,BR-RS Porto Alegre,-20.469998,-54.673988,BR-MS Campo Grande
+1390,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1391,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1392,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1393,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1394,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1395,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1396,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1397,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1398,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1399,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1400,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1401,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1402,Loester Trutis,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1403,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1404,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1405,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1406,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1407,Loester Trutis,"['BSB', 'CGH', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1408,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1409,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1410,Loester Trutis,"['CGR', 'BSB', 'GRU', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1411,Loester Trutis,"['CGR', 'BSB', 'GRU', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1412,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1413,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1414,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1415,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1416,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1417,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1418,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1419,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1420,Bia Cavassa,"['CGB', 'BSB']",CGB,CGB,-15.6529,-56.116699,BR-MT Cuiabá,-15.869167,-47.920834,BR-DF Brasília
+1421,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1422,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1423,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1424,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1425,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1426,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1427,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1428,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1429,Bia Cavassa,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1430,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1431,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1432,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1433,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1434,Bia Cavassa,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1435,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1436,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1437,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1438,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1439,Bia Cavassa,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1440,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1441,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1442,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1443,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1444,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1445,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1446,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1447,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1448,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1449,Vander Loubet,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1450,Vander Loubet,"['BSB', 'SDU']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-22.9105,-43.163101,BR-RJ Rio de Janeiro
+1451,Vander Loubet,"['FOR', 'BSB']",FOR,FOR,-3.77628,-38.5326,BR-CE Fortaleza,-15.869167,-47.920834,BR-DF Brasília
+1452,Vander Loubet,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1453,Dagoberto Nogueira,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1454,Dagoberto Nogueira,"['BSB', ' CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,,,
+1455,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1456,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1457,Dagoberto Nogueira,"['BSB', ' CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,,,
+1458,Dagoberto Nogueira,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1459,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1460,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1461,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1462,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1463,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1464,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1465,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1466,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1467,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1468,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1469,Dagoberto Nogueira,"['CGR', 'GRU', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1470,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1471,Dagoberto Nogueira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1472,Dagoberto Nogueira,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1473,Dagoberto Nogueira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1474,Dagoberto Nogueira,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1475,Dr. Luiz Ovando,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1476,Dr. Luiz Ovando,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1477,Dr. Luiz Ovando,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1478,Dr. Luiz Ovando,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1479,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1480,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1481,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1482,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1483,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1484,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1485,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1486,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1487,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1488,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1489,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1490,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1491,Dr. Luiz Ovando,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1492,Dr. Luiz Ovando,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1493,Dr. Luiz Ovando,"['BSB', 'CGR', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1494,Beto Pereira,"['BSB', ' CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,,,
+1495,Beto Pereira,"['BSB', ' CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,,,
+1496,Beto Pereira,"['BSB', ' GRU']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,,,
+1497,Beto Pereira,"['BSB', ' GRU']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,,,
+1498,Beto Pereira,"['BSB', ' CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,,,
+1499,Beto Pereira,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1500,Beto Pereira,"['GRU', ' CGR']",GRU,GRU,-23.431944,-46.467778,BR-SP São Paulo,,,
+1501,Beto Pereira,"['GRU', ' CGR']",GRU,GRU,-23.431944,-46.467778,BR-SP São Paulo,,,
+1502,Beto Pereira,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1503,Beto Pereira,"['CGR', ' GRU', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1504,Beto Pereira,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1505,Beto Pereira,"['BSB', ' CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,,,
+1506,Beto Pereira,"['GRU', ' BSB']",GRU,GRU,-23.431944,-46.467778,BR-SP São Paulo,,,
+1507,Beto Pereira,"['CGR', ' BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,,,
+1508,Beto Pereira,"['GRU', 'CGR']",GRU,GRU,-23.431944,-46.467778,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+1509,Beto Pereira,"['GRU', 'CGR']",GRU,GRU,-23.431944,-46.467778,BR-SP São Paulo,-20.469998,-54.673988,BR-MS Campo Grande
+1510,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1511,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1512,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1513,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1514,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1515,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1516,Beto Pereira,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1517,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1518,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1519,Beto Pereira,"['BSB', 'FOR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-3.77628,-38.5326,BR-CE Fortaleza
+1520,Beto Pereira,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1521,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1522,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1523,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1524,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1525,Loester Trutis,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1526,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1527,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1528,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1529,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1530,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1531,Loester Trutis,"['BSB', 'CWB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1532,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1533,Loester Trutis,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1534,Loester Trutis,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1535,Loester Trutis,"['BSB', 'BSB']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-15.869167,-47.920834,BR-DF Brasília
+1536,Loester Trutis,"['CGR', 'BSB', 'CGR']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-20.469998,-54.673988,BR-MS Campo Grande
+1537,Bia Cavassa,"['POA', 'CGR']",POA,POA,-29.994712,-51.166592,BR-RS Porto Alegre,-20.469998,-54.673988,BR-MS Campo Grande
+1538,Bia Cavassa,"['CGR', 'POA']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-29.994712,-51.166592,BR-RS Porto Alegre
+1539,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1540,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
+1541,Bia Cavassa,"['BSB', 'GRU', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1542,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1543,Bia Cavassa,"['CGR', 'GRU', 'POA']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-29.994712,-51.166592,BR-RS Porto Alegre
+1544,Bia Cavassa,"['BSB', 'CGR']",BSB,BSB,-15.869167,-47.920834,BR-DF Brasília,-20.469998,-54.673988,BR-MS Campo Grande
+1545,Bia Cavassa,"['CGR', 'BSB']",CGR,CGR,-20.469998,-54.673988,BR-MS Campo Grande,-15.869167,-47.920834,BR-DF Brasília
